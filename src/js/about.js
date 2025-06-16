@@ -11,7 +11,7 @@ const accordeonList = document.querySelector('.accordeon-list');
 new Accordion(accordeonList, {
   duration: 600,
   showMultiple: true,
-  openOnInit: [0],
+  // openOnInit: [0],
 
   elementClass: 'ac',
   triggerClass: 'accordeon-title',
