@@ -67,9 +67,9 @@
 }
 
 .title-icon {
-  width: 18px;
-  height: 18px;
-  stroke: white;
+  width: 24px;
+  height: 24px;
+  stroke: white !important;
 }
 .hidden {
   overflow: hidden;
